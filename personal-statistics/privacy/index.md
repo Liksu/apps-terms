@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Personal Statistics — Privacy Policy
 permalink: /personal-statistics/privacy/
 ---
