@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Personal Statistics — Terms of Service
 permalink: /personal-statistics/terms/
 ---
