@@ -1,6 +1,8 @@
 title: Terms & Links
 description: Public information and policy pages for personal applications.
-url: "https://liksu.github.io/apps-terms/"
-baseurl: ""
+url: "https://liksu.github.io"
+baseurl: "/apps-terms"
 theme: minima
 markdown: kramdown
+header_pages:
+  - personal-statistics/index.md
